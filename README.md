@@ -2,6 +2,15 @@
 
 A collection of Assembly programming exercises developed for the **Computer Organization** course, exploring low-level programming concepts using the **RISC-V instruction set architecture (ISA)**.
 
+### Developers
+
+The Battleship game (`final.asm`) was collaboratively developed by:
+
+- **[João Henrique Alves](https://github.com/joaohenalves)**
+- **[Kevin Willian Gonçalves](https://github.com/euzin4)**
+
+All other exercises in this repository were developed independently by João Henrique Alves.
+
 ## ⚙️ Architecture and Environment
 
 The programs are written in **RISC-V Assembly**, using 32-bit integer operations and instructions from the **RV32I** base instruction set, along with the **M extension** for multiplication.
